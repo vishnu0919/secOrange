@@ -1,0 +1,77 @@
+{
+	"1": {
+		"id": 1,
+		"userId": 1,
+		"company": "yahoo",
+		"country": "USA",
+		"accUserName": "sai123",
+		"accPassword": "123",
+		"accEmail": "vishnu@yahoo.com",
+		"accUrl": "http://yahoo.com",
+		"joinDate": "2/12/1993",
+		"updateDate": "12/12/2001",
+		"address": {
+			"id": 1,
+			"addr_line1": "39600 fremont blvd",
+			"addr_line2": "Apt 42",
+			"city": "fremont",
+			"state": "CA",
+			"zip": 94538,
+			"country": "USA",
+			"languages": {
+				"id": 2,
+				"language": "tamil"
+			}
+		}
+	},
+	"2": {
+		"id": 2,
+		"userId": 2,
+		"company": "facebook",
+		"country": "USA",
+		"accUserName": "satya_kumar",
+		"accPassword": "rock",
+		"accEmail": "satya@gmail.com",
+		"accUrl": "http://facebook.com",
+		"joinDate": "12/11/2001",
+		"updateDate": "12/11/2001",
+		"address": {
+			"id": 3,
+			"addr_line1": "2100 bay area blvd",
+			"addr_line2": "Apt 20",
+			"city": "Houston",
+			"state": "tx",
+			"zip": 77058,
+			"country": "USA",
+			"languages": {
+				"id": 1,
+				"language": "hindi"
+			}
+		}
+	},
+	"3": {
+		"id": 3,
+		"userId": 3,
+		"company": "apple",
+		"country": "USA",
+		"accUserName": "ram_sai",
+		"accPassword": "ram",
+		"accEmail": "ram@gmail.com",
+		"accUrl": "http://apple.com",
+		"joinDate": "01/02/1994",
+		"updateDate": "09/09/1999",
+		"address": {
+			"id": 2,
+			"addr_line1": "39600 sanjose blvd",
+			"addr_line2": "Apt 11",
+			"city": "san jose",
+			"state": "CA",
+			"zip": 94411,
+			"country": "USA",
+			"languages": {
+				"id": 3,
+				"language": "telugu"
+			}
+		}
+	}
+}

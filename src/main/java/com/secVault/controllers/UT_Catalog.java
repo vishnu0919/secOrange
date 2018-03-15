@@ -34,7 +34,7 @@ public class UT_Catalog {
 	public void catalogTest() {
 		assertTrue("spring container should not be null", repository != null);
 		
-		
+		System.out.println("uploaded json file in src/test");
 		//List<SecAccountsEntity> secAccountsList = repository.fetchAllSecAccount();
 	//	System.out.println("SEcAcconts size : " + secAccountsList.size());
 		System.out.println("In test case");
